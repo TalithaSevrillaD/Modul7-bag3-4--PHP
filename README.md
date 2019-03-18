@@ -1,6 +1,6 @@
 # Modul7-bag3-4--PHP
 # Yang sudah dipelajari pada modul ini
-yang dapat saya pelajari yaitu bagaimana cara membuat database dengan mengkoneksikan dari tabel 1 ke tabel yang lainnya dengan menggunakan PHPMysql.
+yang dapat saya pelajari yaitu bagaimana cara mengkoneksikan dari tabel 1 ke tabel yang lainnya pada database dengan menggunakan PHPMysql.
 # Matakuliah
 - Screenshot hasil Form-create
 ![alt](https://github.com/TalithaSevrillaD/Modul7-bag3-4--PHP/blob/master/form-create.JPG?raw=true)
